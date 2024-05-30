@@ -1,5 +1,4 @@
 ## Introdução:
-
 Para esse teste técnico, vamos supor uma situação cotidiana de uma empresa de e-commerce, em que o layout visual de uma página de carrinho de compras está quebrado e precisa ser corrigido, além de não ter a funcionalidade de exibição dos valores dinâmicos dos produtos no carrinho.
 Foi passado à você a tarefa de realizar a correção dessa página com o layout pensado e definido no [Figma](https://www.figma.com/design/HEhq70vAmliaFCcBoFaopa/Untitled?m=dev&node-id=1-2&t=K7TOZr7LNNokIXlR-1).
 Você então deve levar em consideração às regras de negócio propostas abaixo e alcançar os objetivos propostos, tentando ser o mais fiel possível em relação ao layout.
@@ -7,10 +6,6 @@ O desafio já se inicia ao clonar o repositório para o seu ambiente de desenvol
 
 Ao finalizar o desafio, por favor faça um `.zip` da pasta do projeto no seu ambiente e encaminhe ao email `contato@devee.com.br`.
 Você terá até o dia `03/06/2024` para enviar a sua solução.
-
-```
-EDIT: Alguns candidatos relataram problemas ao submeter o resultado via gmail, pois o mesmo não aceita arquivos .js mesmo dentro de .zip, nesse caso o candidato pode criar um repositório no github e nos enviar no email somente o link para o repositório.
-```
 
 ### [Figma da página de carrinho](https://www.figma.com/design/HEhq70vAmliaFCcBoFaopa/Untitled?m=dev&node-id=1-2&t=K7TOZr7LNNokIXlR-1)
 
